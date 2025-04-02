@@ -1,0 +1,1 @@
+git+https://github.com/dacastano/ta_py_framework.git@develop
